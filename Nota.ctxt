@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Nota
+comment1.params=id\ descripcion
+comment1.target=Nota(int,\ java.lang.String)
+comment2.params=
+comment2.target=int\ getId()
+comment3.params=
+comment3.target=java.time.LocalTime\ getHora()
+comment4.params=
+comment4.target=java.lang.String\ getDescripcion()
+comment5.params=id
+comment5.target=void\ setId(int)
+comment6.params=hora\ minuto\ segundo
+comment6.target=void\ setHora(int,\ int,\ int)
+comment7.params=descripcion
+comment7.target=void\ setDescripcion(java.lang.String)
+comment8.params=
+comment8.target=void\ mostrar()
+numComments=9

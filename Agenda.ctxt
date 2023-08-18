@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Agenda
+comment1.params=
+comment1.target=Agenda()
+comment2.params=
+comment2.target=java.util.ArrayList\ getNotas()
+comment3.params=notas
+comment3.target=void\ setNotas(java.util.ArrayList)
+comment4.params=id\ descripcion
+comment4.target=void\ addNota(int,\ java.lang.String)
+comment5.params=id
+comment5.target=void\ borrarNota(int)
+comment6.params=
+comment6.target=void\ listarNotas()
+comment7.params=
+comment7.target=int\ contarNotas()
+numComments=8
